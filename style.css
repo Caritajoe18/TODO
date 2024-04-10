@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(15, 52, 17);
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.whole{
+    background-color:rgb(193, 209, 210);
+    height: 80vh;
+    width: 50vw;
+    margin: auto;
+    border-radius:  5% 20px;
+    font-family: sans-serif;
+    
+}
+.top{
+    display: flex;
+    justify-content: center;
+}
+.head-image{
+    background-color: aquamarine;
+    height: 20vh;
+    width: auto;
+    border-radius: 69px;
+}
+.t-head{
+    background-color: thistle;
+    transform: rotate(5deg);
+    border-radius: 20% 5% 20%/5% 20% 20% 25%;
+    font-family: cursive;
+    font-size:xx-l
+arge;
+}
+.will{
+    display: flex;
+    justify-content: center;
+    font-family:cursive;
+    font-size: 130%;
+    color:rgb(90, 40, 65);
+}
+.myform{
+    display: flex;
+    justify-content: center;
+    gap: 20%
+
+}
+.form-input{
+    box-sizing: border-box;
+    background-color: transparent;
+    border: transparent;
+    border-bottom: dashed rgb(113, 31, 113);
+    outline: none;
+    font-size: 1.5rem;
+}
+.but{
+    background-color: thistle;
+    height: 40px;
+    width: 90px;
+    border-radius: 10px;
+    cursor: pointer;
+    transform: rotate(4deg);
+    transform-origin:center;
+    box-shadow: 0 4px 0 rgb(6, 76, 6);
+font-family: cursive;
+}

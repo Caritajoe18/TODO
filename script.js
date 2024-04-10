@@ -1,0 +1,3 @@
+const mytodo = ()=>{
+  let todoListArray = []  
+}
